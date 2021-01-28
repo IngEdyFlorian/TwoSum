@@ -1,0 +1,9 @@
+C:\Users\ingen\source\repos\AppSumTwo\Lib_TwoSum\bin\Debug\netcoreapp3.1\Lib_TwoSum.deps.json
+C:\Users\ingen\source\repos\AppSumTwo\Lib_TwoSum\bin\Debug\netcoreapp3.1\Lib_TwoSum.dll
+C:\Users\ingen\source\repos\AppSumTwo\Lib_TwoSum\bin\Debug\netcoreapp3.1\Lib_TwoSum.pdb
+C:\Users\ingen\source\repos\AppSumTwo\Lib_TwoSum\obj\Debug\netcoreapp3.1\Lib_TwoSum.csprojAssemblyReference.cache
+C:\Users\ingen\source\repos\AppSumTwo\Lib_TwoSum\obj\Debug\netcoreapp3.1\Lib_TwoSum.AssemblyInfoInputs.cache
+C:\Users\ingen\source\repos\AppSumTwo\Lib_TwoSum\obj\Debug\netcoreapp3.1\Lib_TwoSum.AssemblyInfo.cs
+C:\Users\ingen\source\repos\AppSumTwo\Lib_TwoSum\obj\Debug\netcoreapp3.1\Lib_TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\ingen\source\repos\AppSumTwo\Lib_TwoSum\obj\Debug\netcoreapp3.1\Lib_TwoSum.dll
+C:\Users\ingen\source\repos\AppSumTwo\Lib_TwoSum\obj\Debug\netcoreapp3.1\Lib_TwoSum.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lib_TwoSum/1.0.0": {
+        "runtime": {
+          "Lib_TwoSum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lib_TwoSum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
